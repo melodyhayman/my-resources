@@ -1,4 +1,6 @@
 # my-resources
-text
-## header 2
-text
+this is a collection of my computational resources
+## R
+### Plotting
+## Genomics
+## Python
