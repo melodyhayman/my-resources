@@ -1,5 +1,5 @@
 # my-resources
-this is a collection of my computational resources
+this is my repo for CM515 resources
 ## R
 ### Plotting
 ## Genomics
