@@ -8,5 +8,8 @@ this is my repo for CM515 resources
 [visulaization best practices in R](https://www.datacamp.com/courses/visualization-best-practices-in-r)
 ## Plotting
 [R graphs](https://r-graph-gallery.com/index.html)
+[R colors](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+## Practice Datasets
+[Our World in Data](https://ourworldindata.org/)
 ## Genomics
 ## Python
